@@ -1,0 +1,6 @@
+# SQL Data Analyst Agent — Python dependencies
+streamlit
+pandas
+python-dotenv
+google-genai
+pytest
